@@ -128,7 +128,7 @@ def read_edges_with_ports_to_stats_multiple_files(path, maxnum=None, print_it=0)
     names_only = [f for f in listdir(path) if marker in f   ]
     fnames = [path + '/' + f for f in listdir(path) if marker in f   ] # includes path
     if len(fnames) == 0: # go one level deeper
-        dirs = [path + '/' + fdir for fdir in listdir(path) if 'dir' in f   ]
+        dirs = [path + '/' + fdir for fdir in listdir(path) if 'dir' in fdir]
         fnames = []
         names_only = []
         i = 0
@@ -404,7 +404,7 @@ def longevity_histograms(workloads, v_to_directed_longevity, count_thresh=None):
             if count_thresh is not None:
                 # For 
                 r = int(100.0 * cnt_exceeds / num_trips)
-                print('# Count and percentage of edges (conversations) >= %d: %d or %.3f\%' % (
+                print('# Count and percentage of edges (conversations) >= %d: %d or %.3f\\%' % (
                     count_thresh, cnt_exceeds, r))
 
             
