@@ -1,0 +1,531 @@
+{
+  "created_at": "2026-01-11T03:52:19.619313Z",
+  "input_dir": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt",
+  "output": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_all_edges_aggregated_v2.txt.gz",
+  "files": [],
+  "files_processed": 104,
+  "total_uncompressed_bytes": 6977397,
+  "compressed_size_bytes": 1828086,
+  "per_file": [
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100000.anon.txt.gz",
+      "size": 18284,
+      "sha256": "735dc49122294db172aa59625a40ae0701f40dcf11bc3083b7527fa0c386869e"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100100.anon.txt.gz",
+      "size": 18543,
+      "sha256": "696f3b8e5f8a058d027a889d8fe29e3243df72f365de3563d4153b19bf6fe8f9"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100200.anon.txt.gz",
+      "size": 18327,
+      "sha256": "e6d1ee201c238531056447a162d64d9f4bfbe5a888ab94b914dbdf8fdd67e024"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100300.anon.txt.gz",
+      "size": 18398,
+      "sha256": "a2741d5180ba91d7a95a6634a93227bba90fe232e811574dc2e027f5e420995b"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100400.anon.txt.gz",
+      "size": 18259,
+      "sha256": "fe1e06266854a8d116e3a3bf3c595f85c4a8806157e3cfe3a9811b592d5fdb3d"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100500.anon.txt.gz",
+      "size": 18445,
+      "sha256": "99f7dc510054866e552b5dd41185c5dac6c2261a87d1771709a646c51411cd21"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100600.anon.txt.gz",
+      "size": 18431,
+      "sha256": "279a639ba8458cdbef2878448389a4d55ef0758df37d7b0ec05527f6f1c66b2a"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100700.anon.txt.gz",
+      "size": 18267,
+      "sha256": "f60faab8acc7b74d355dfff7e1fd8a0f14fcc5214306cb49cb76d005a0046123"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100800.anon.txt.gz",
+      "size": 18267,
+      "sha256": "98e6f1f47ea8108c89a4f1f14be9199fcf07b8489f604fb974c8a385bfe75bb5"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202100900.anon.txt.gz",
+      "size": 18296,
+      "sha256": "6014d14148d24fd9c25c32971f95d74fba4589cc16a3db9e047829b19af28348"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101000.anon.txt.gz",
+      "size": 18280,
+      "sha256": "7ddfdb172f7ca42683646a6178fea016c45d5567a7088bbfa43fc66b45400092"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101100.anon.txt.gz",
+      "size": 18358,
+      "sha256": "e3cafc7ac079e2e6265fe6d1a34841b33173f5364f1fc52409856be9bda2d6a0"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101200.anon.txt.gz",
+      "size": 18407,
+      "sha256": "346a7edaa275d0042cf94eda69c1ab0bd2a14c44fa7c3b49abdd25e5748efe24"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101300.anon.txt.gz",
+      "size": 18220,
+      "sha256": "f9c745329224f31caf6f11c32010b35ef3dbce5037ca2a2b47ef7ffe7d8626b5"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101400.anon.txt.gz",
+      "size": 18340,
+      "sha256": "1c8ce657ccaf9cdd6674b7369c5384b67d42dedaaa0ac5578625fe5160bf5c4a"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101500.anon.txt.gz",
+      "size": 18286,
+      "sha256": "c49983206d59ea97d1cb809b736d04f568ed8a841f96d9bf9c3acbd1fef7990d"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101600.anon.txt.gz",
+      "size": 18258,
+      "sha256": "d792d73eddbdb472a584357f89ea7d915b71d08ee7052b9d091aae50b4c61ce7"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101700.anon.txt.gz",
+      "size": 18289,
+      "sha256": "4beeff2521bbddc385bb911238f3c949e9c8002fc29c9a52283342652e4efecb"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101800.anon.txt.gz",
+      "size": 18336,
+      "sha256": "354049b3d02e8adb0aa5e6a3c0fd4728ad28a3b6f3e344ae2a846ca02f78f585"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202101900.anon.txt.gz",
+      "size": 18310,
+      "sha256": "df20ccfa67d23fa428406885cd2b1ce16723ceab33dfd98d81b76d06352e7a54"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202102000.anon.txt.gz",
+      "size": 19500,
+      "sha256": "7f8c353b78dc9ffbbeb5c52fd23a29953b5b00b49f815d660ac51be32209bea2"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202102100.anon.txt.gz",
+      "size": 18605,
+      "sha256": "5c47ce499a534bd47eb69056077009c794ee2c821b2e6367d79ac1821b7faf86"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202102200.anon.txt.gz",
+      "size": 18581,
+      "sha256": "252bb7363dd256c22877a77f2bec10ffaf0a52b255f6a745aeef24cd9c363065"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202102300.anon.txt.gz",
+      "size": 18502,
+      "sha256": "d6e09b1a8ebfd5de3dff66eb5724851e53d016999776c78990b22f8b9147c501"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110000.anon.txt.gz",
+      "size": 18555,
+      "sha256": "268f9187080d8863aec99b9aedb70f858af9e732f1f99f0b8fafcd2543cb40b2"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110100.anon.txt.gz",
+      "size": 18666,
+      "sha256": "360a9333fcd504ea9a8e938a605a3c9c2476f2a17eb7cef03788597f9c05402d"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110200.anon.txt.gz",
+      "size": 18609,
+      "sha256": "fc72e020a2193083ed435df97661c407e219874c2525ad3d85b65c1593b1e4b3"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110300.anon.txt.gz",
+      "size": 18583,
+      "sha256": "99e8a1a211dce0835181124d7ee4a06f4935cc17e2571eefc7473803d876effc"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110400.anon.txt.gz",
+      "size": 18492,
+      "sha256": "853efe234a3bff33e945dedc6336a80d1d06e162856770cc59863c473ebba529"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110500.anon.txt.gz",
+      "size": 18625,
+      "sha256": "66b3a450e7ef6e81c48e1552ca5ef94ff43a390df9cf4af8d762e989455c9884"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110600.anon.txt.gz",
+      "size": 18580,
+      "sha256": "fbc1ef10afe29a3815313ddf8eeaa3c7f004537d6843fe93de64f87ae11d7866"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110700.anon.txt.gz",
+      "size": 17987,
+      "sha256": "e692973506cdd376df8b5288c0ee68fdaacf804f613ccae99354507c70b598cf"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110800.anon.txt.gz",
+      "size": 17801,
+      "sha256": "86458a287066353a2c7cd94f274df850059c89cdc3e813ecb3848440bc8bbd01"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202110900.anon.txt.gz",
+      "size": 18012,
+      "sha256": "b0ed3a0bf7407e6b8a798935ec80086f7699c48070649afb87aa21c785d4c423"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111000.anon.txt.gz",
+      "size": 18006,
+      "sha256": "d79fbae15bed2b1dbb130c0317900cc32b26222c42dc6236fc4e5b0b546e8790"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111100.anon.txt.gz",
+      "size": 17864,
+      "sha256": "21f8504bbe21d5d247192331acf765aedd974682d6a674846a018e02041db68c"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111200.anon.txt.gz",
+      "size": 18713,
+      "sha256": "9e40daa8de58f0dfc02e29e3d0b60ae70629e44e212c068d47da788244f86e83"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111300.anon.txt.gz",
+      "size": 18469,
+      "sha256": "f620bf06ba571301b34b2b99e336834eae7e61fc86265df76263b472292392a3"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111400.anon.txt.gz",
+      "size": 18552,
+      "sha256": "efa739fecae946da0de6a344c366b95e24914d160962e8ef126b56eed760a367"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111500.anon.txt.gz",
+      "size": 18580,
+      "sha256": "afd9f506d74c41b84468a81b9688bf96e617836f1f9c0e982e60d8794c4a663f"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111600.anon.txt.gz",
+      "size": 18419,
+      "sha256": "56c796a2e7d3f72c733f445ce16ed6a969ddead3a46b6a0e13b789b187c1b9bc"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111700.anon.txt.gz",
+      "size": 18555,
+      "sha256": "82b361b14618885c11d1927be8bc375670713fe9b607cacf7c95063773b9fc50"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111800.anon.txt.gz",
+      "size": 18602,
+      "sha256": "808e374324ad1e22732c35d1b7b05a07c39fa97dd36afb1ff7e73fad22600746"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202111900.anon.txt.gz",
+      "size": 18711,
+      "sha256": "2e94ba7298e170a24e784068b7d08c4315ecf233ce9f83386b73ec3c048d33ea"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202112000.anon.txt.gz",
+      "size": 19684,
+      "sha256": "2908af48c9c2b96eaf87e820ad384f00e17bde9d8ca0c5b7013a2a8784e4c08c"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202112100.anon.txt.gz",
+      "size": 18603,
+      "sha256": "8ea1e67bbe5066cb3c957c70c71bf939cf173463c7f88e7477c8a18d5ae3de25"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202112200.anon.txt.gz",
+      "size": 18686,
+      "sha256": "3287dece1ce26960d61412cea00bb01a13ef3bf41103dd5408748f2a11df0408"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202112300.anon.txt.gz",
+      "size": 18462,
+      "sha256": "d907f2c07a4f1ce75aaafaad8ff05161360fe12bdf6c48277d9383ced2048b1d"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120000.anon.txt.gz",
+      "size": 18657,
+      "sha256": "5f1706e5516149964a4afbf5f08da31aa25498357b6e98eedfa72ee5b13f91ac"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120100.anon.txt.gz",
+      "size": 18585,
+      "sha256": "719373e8dd874ee8f3a3e88cd1e8090b26180162166467524b348dde88c58094"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120200.anon.txt.gz",
+      "size": 18687,
+      "sha256": "d69c1974e7cf01e9acb8a60bb6e092b7f26119beb66761ea734c23f66cbdfda2"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120300.anon.txt.gz",
+      "size": 18813,
+      "sha256": "106fd6cf08867e9b547fc90066a4b53d4537b45af2d8e4ac25551cab610a37fc"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120400.anon.txt.gz",
+      "size": 18617,
+      "sha256": "e7aefa4c27298405d364c7a7e4f13987540f0d04f3970045f2237539c73577c8"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120500.anon.txt.gz",
+      "size": 18785,
+      "sha256": "e57c8665c69c39d2a2a70d09f1012b86d61c42198f46e665d7ab5b95d9694200"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120600.anon.txt.gz",
+      "size": 18866,
+      "sha256": "fa540c0c1876ef54e3f113e205960d2a6a9e2ab958476b89e3bb12bf283d3e36"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120700.anon.txt.gz",
+      "size": 18547,
+      "sha256": "2fc964c3c18b0ce6fdfb03a9663c396a322e966f6f0d17e28857e77a4aba687a"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120800.anon.txt.gz",
+      "size": 18616,
+      "sha256": "da58b8734385ea0c404cacf36b4c95c20d483a9a02608ce5c3f26d5626544b0c"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202120900.anon.txt.gz",
+      "size": 18603,
+      "sha256": "d07c1092ee3046fd480345623c845ccf813d54923b6aa58a9e85a52f072afd83"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121000.anon.txt.gz",
+      "size": 18546,
+      "sha256": "58f76ea3e3e9cdbf321861dd7d92305b99ca99e6a71a7588157f2d6eebf5048d"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121100.anon.txt.gz",
+      "size": 18624,
+      "sha256": "48d392ef1a0b9726fd8536642652ff26767d7970ec931f6cac39279bb8a39254"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121200.anon.txt.gz",
+      "size": 18636,
+      "sha256": "d70c8f408b064b791f0eeec1e736ba50a3cf01a1400162153d4caddf605b1a35"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121300.anon.txt.gz",
+      "size": 18696,
+      "sha256": "34314f069f63ddbc6faea76ed0aa694fde4b1c87afc538a535de2e760eede10f"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121400.anon.txt.gz",
+      "size": 18632,
+      "sha256": "a2dd0e2fdcfffdf31585dafdf6ed7028c118f41579f56850d6e40cbb142d2ead"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121500.anon.txt.gz",
+      "size": 18617,
+      "sha256": "778ce75c0d0b96cf41405df0483ece584880af3321d629dc3792d0c1f23a38ca"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121600.anon.txt.gz",
+      "size": 18611,
+      "sha256": "d5843ac5ec77326aff0156627299205997a366441b9aeafa273eeb0c0cf92bd6"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121700.anon.txt.gz",
+      "size": 18746,
+      "sha256": "3e912c934764a45cfdbbde7f1e54b6a8d45b0064e7699c2bb39dd8d327f96437"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121800.anon.txt.gz",
+      "size": 18745,
+      "sha256": "308cdff5fa2839db0973b2afddcfae49b18dbb82ac9fec770cef88c0fca85b48"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202121900.anon.txt.gz",
+      "size": 18677,
+      "sha256": "dc38cdcc45f67fb89adf3d3134cd8f66cec17208b0bda43999e98a4bc77b84c3"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202122000.anon.txt.gz",
+      "size": 19643,
+      "sha256": "c1803e450b45f4459f58b8c4bb9220947fe442b1d628dc318aab1ad86f67ede0"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202122100.anon.txt.gz",
+      "size": 18709,
+      "sha256": "381b60c0d70cbdf5d0811af55a8f2eb375896f07871a78dae33dc021220fb3fe"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202122200.anon.txt.gz",
+      "size": 18461,
+      "sha256": "84ed125b1a683f0d7d5b0bf1ab1399c723b424cbf2bc57d96588d2e80b951541"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202122300.anon.txt.gz",
+      "size": 18417,
+      "sha256": "e3607ee23a729b7b917daac5f2ee2f6a213b471d09d434490ae8ab67d1707d48"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130000.anon.txt.gz",
+      "size": 18565,
+      "sha256": "3c253b79088de8284885f00dae98b689e7163bc3994a3d7bcd52f244fad9e58e"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130100.anon.txt.gz",
+      "size": 18759,
+      "sha256": "0a87113dcb87bc5eada6118d21b907703ef217b899ab59f8a5a87f9e26c59c4e"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130200.anon.txt.gz",
+      "size": 18689,
+      "sha256": "56fac35db15402079ded0cb62e79313780bd9cc9045e8a4bf0c1040eacb3ecdc"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130300.anon.txt.gz",
+      "size": 18614,
+      "sha256": "2571e04fec100fb080a671d09540211aa9a6b3ecd8a64de8d0286d4f1eb45ce6"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130400.anon.txt.gz",
+      "size": 18676,
+      "sha256": "6e73ccc6f7f4d64ec9dea24c5c3526b6d7db02e2d42c11706ed01a6c2fb215ed"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130500.anon.txt.gz",
+      "size": 18643,
+      "sha256": "bc8adfe3e09ce43a183a99753a0bc4e57168d1cc3269b7844a7348fb052d35e1"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130600.anon.txt.gz",
+      "size": 18722,
+      "sha256": "f081a5f53386d6011192dae1c235df16a3d4077b5249321c48ed174611ec428d"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130700.anon.txt.gz",
+      "size": 18721,
+      "sha256": "c23a25ab42cefd8db1e265d3914d45957699a2f7d05ac60c2c3f477ab0e400ca"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130800.anon.txt.gz",
+      "size": 18549,
+      "sha256": "2417ef3a21471bdf8ffdcc6703b1112a9ea5c67f92bf73ef675954b685d6487b"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202130900.anon.txt.gz",
+      "size": 18475,
+      "sha256": "1cce1f0b6bca22ce301f80ac76f371463a6a76e097aa2fdb82b8aa9726f7d193"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131000.anon.txt.gz",
+      "size": 18610,
+      "sha256": "7f3d6da0e702bce882a6a108ad7dd36ca0f1928f53cdb3f9d2706823eab16247"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131100.anon.txt.gz",
+      "size": 18678,
+      "sha256": "40f358fbb1378f9318d9c35ac8f1fc400c0653e7e2ef585a635df69f45721774"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131200.anon.txt.gz",
+      "size": 18779,
+      "sha256": "b91f92038440766927a6d529ca12f70f72143632900815c90ad2f41fbff733c8"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131300.anon.txt.gz",
+      "size": 18601,
+      "sha256": "3ca0e5d2f9a852866c6bc8b7a36494bf93672458dd7b16f6538c86ffbf58cd1a"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131400.anon.txt.gz",
+      "size": 18541,
+      "sha256": "4a91c3c66496c9cbe3fdd2f70fb9605c745f2f095076d2586f88b0c907823f9a"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131500.anon.txt.gz",
+      "size": 18547,
+      "sha256": "096d78566843b4a9e2f8fc1d1641df767dd7a049477c0f88ff964d96a9b8b717"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131600.anon.txt.gz",
+      "size": 18666,
+      "sha256": "87d87dd5c46602ee9281cd7607ad2dd6f022b62c172f16a4fac502be20a983a2"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131700.anon.txt.gz",
+      "size": 18594,
+      "sha256": "59af04c3d868f228ff25248271456cbf3036689ff866d533d12c653aa381e171"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131800.anon.txt.gz",
+      "size": 18678,
+      "sha256": "5977a5ed430fb968475ecad266c64b41800b3e600bf847f488fb57fc5239cd94"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202131900.anon.txt.gz",
+      "size": 18547,
+      "sha256": "6f5843cd03a96273557049b6c3728704403f3df1c90cac9adf58bb4b9afdb5a9"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202132000.anon.txt.gz",
+      "size": 19801,
+      "sha256": "7fee1810a7c441b6eec58dda33fa61b6ef7b7dcdb5ace6125fbdf7b4a935d9d6"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202132100.anon.txt.gz",
+      "size": 18665,
+      "sha256": "09e1a97ea037eaf62e3b38566a0ff180e3ce06ff50fd309aab0cc755bcbd5d07"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202132200.anon.txt.gz",
+      "size": 18496,
+      "sha256": "4a4a1285072b6a44b90c68a8548844ded2a77aaa35880c906faee2daa65c7430"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_includes_packets_and_other_nodes\\edges_to_ports_202202132300.anon.txt.gz",
+      "size": 18595,
+      "sha256": "323b3190c021136788deb4e46baea3ffc925e99bcf27a4f548889a99c5d9e5c1"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_no_packets_etc\\dir_few_sensors\\edges_1days_tillFeb9_partial_sensors.csv.txt.gz",
+      "size": 2641,
+      "sha256": "025afb5f572f1ed953b0f3ebc3180d619e26e13dd1755e4267eea40a38d6d550"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_no_packets_etc\\dir_few_sensors\\edges_6days_tillFeb9_partial_sensors.csv.txt.gz",
+      "size": 2702,
+      "sha256": "01a9d6f1c35c0961cd4b872a27f2c8d9cad98ce3e7338880f28c4bb668b0d34a"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_no_packets_etc\\edges_12hrs_feb10_all_49sensors.csv.txt.gz",
+      "size": 9719,
+      "sha256": "2f8c2c00b6cf34eb9f0a5d39faff9789894fcf9e4c241000e06e9b0b951c9408"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_no_packets_etc\\edges_2days_feb10thruFeb11_all_49sensors.csv.txt.gz",
+      "size": 14843,
+      "sha256": "7450200b1ad0e4a318986e84e834508a3942f37d8c186ea2e4384a421b413583"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\dir_no_packets_etc\\edges_4days_feb10thruFeb13_all_49sensors.csv.txt.gz",
+      "size": 20308,
+      "sha256": "7f61730e0d9c48e37b6ec84dc43e352de74e2078b1d55ad124371abc935131a0"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\groupings.gt.txt",
+      "size": 195,
+      "sha256": "a38cdadb0c9cfbba34f4d9f2251e999f33ddb7b4215199404053baea867c8d9b"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\groupings.gt.viaPrefix5.txt",
+      "size": 481,
+      "sha256": "ef7eb65578919553af72d608d1a9decdb6aeb8b7845642541926a270542dc51f"
+    },
+    {
+      "path": "D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis\\dir_g21_small_workload_with_gt\\prefix_codes.txt",
+      "size": 1326,
+      "sha256": "e19b733397a97d6f55548d6b07a75e478621f689681b087e800785470dac04a4"
+    }
+  ]
+}

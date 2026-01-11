@@ -40,6 +40,7 @@
 ############
 
 import sys, gzip
+import contextlib
 from os import listdir
 import numpy as np
 from collections import defaultdict, Counter
@@ -417,20 +418,29 @@ if __name__ == '__main__':
     path += '/'
     maxnum = None # read all files if None..
     if len(sys.argv) > 2:
-        maxnum = int(sys.argv[2]) # read maxnum many edge files.
-    graphs, stats, wload_to_directed_longevity = read_edges_with_ports_to_stats_multiple_files(
-        path, maxnum=maxnum )
+        try:
+            maxnum = int(sys.argv[2]) # read maxnum many edge files.
+        except Exception:
+            maxnum = None
 
-    pairs = [(x[0], len(x[1])) for x in graphs.items()]
-    # Sort in descending number of nodes.
-    pairs.sort(key=lambda x: - x[1])
-    workloads = [x[0] for x in pairs] # They are ordered now.
-    report_num_nodes_and_edges(workloads, wload_to_directed_longevity)
+    # Write all printed output to a results file for easier retrieval
+    out_path = 'read_graphs_results.txt'
+    with open(out_path, 'w', encoding='utf-8') as outf:
+        with contextlib.redirect_stdout(outf):
+            graphs, stats, wload_to_directed_longevity = read_edges_with_ports_to_stats_multiple_files(
+                path, maxnum=maxnum )
 
+            pairs = [(x[0], len(x[1])) for x in graphs.items()]
+            # Sort in descending number of nodes.
+            pairs.sort(key=lambda x: - x[1])
+            workloads = [x[0] for x in pairs] # They are ordered now.
+            report_num_nodes_and_edges(workloads, wload_to_directed_longevity)
 
-    if 1:
-        report_degree_and_port_stats(graphs, stats)
-    
-    if 0:  # Explore longevity of edges? (how many edges files each observed edge
-           # falls into).
-        longevity_histograms(workloads, wload_to_directed_longevity, count_thresh=50)
+            if 1:
+                report_degree_and_port_stats(graphs, stats)
+            
+            if 0:  # Explore longevity of edges? (how many edges files each observed edge
+                   # falls into).
+                longevity_histograms(workloads, wload_to_directed_longevity, count_thresh=50)
+
+    print('Wrote results to', out_path)

@@ -1,0 +1,27 @@
+
+# reading multiple files.. path is: D:\OneDrive - University of Toronto\git\cisco_network_analysis/
+
+# All edge file names are:
+['dir_g21_all_edges_aggregated.txt.gz', 'dir_g21_all_edges_aggregated_v2.txt.gz']
+
+# Num files to process: 2, 1st few are:['D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis//dir_g21_all_edges_aggregated.txt.gz', 'D:\\OneDrive - University of Toronto\\git\\cisco_network_analysis//dir_g21_all_edges_aggregated_v2.txt.gz']
+
+
+# Done reading from 2 file(s).
+
+
+Graph, num nodes, undirected edges, directed edges, port-differentiated-directed edges
+g21 318 1700 3028 11489
+
+
+
+Graph=g21 num nodes=318, num undirected edges=1700
+(undirected) num nodes with degree 2+=107, median degree=1, max degree=112
+Num. of (unique service) ports in graph =2382, on 2+ edges=1407
+Num. nodes providing a port=233, 2+ ports=70 median=1 max=694
+Num. nodes client of a port=149, 2+ ports=112 median=2 max=1161
+Num. nodes with positive indegree and outdegree = 64
+Num. of self-arcs: 10
+Num. directed edges: 3028
+Num. of directed 2-cycles: 2656
+
