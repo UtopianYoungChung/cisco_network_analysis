@@ -8,6 +8,8 @@ directory and its contents from a Jupyter notebook or any Python script.
 Copy the code snippets below into your Jupyter notebook cells.
 """
 
+import os
+
 # Cell 1: Import the path utilities
 print("=" * 60)
 print("Example 1: Importing path utilities")
@@ -26,14 +28,13 @@ print("=" * 60)
 
 data_dir = get_g21_small_workload_path()
 print(f"Data directory path: {data_dir}")
-print(f"Directory exists: {True}")
+print(f"Directory exists: {os.path.exists(data_dir)}")
 
 # Cell 3: List contents of the data directory
 print("\n" + "=" * 60)
 print("Example 3: List contents of the data directory")
 print("=" * 60)
 
-import os
 contents = os.listdir(data_dir)
 print(f"Contents of {os.path.basename(data_dir)}:")
 for item in sorted(contents):

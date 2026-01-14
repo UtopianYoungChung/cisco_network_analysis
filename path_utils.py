@@ -30,7 +30,13 @@ def get_project_root():
     # Walk up the directory tree to find the project root
     for path in [current_path] + list(current_path.parents):
         # Check for characteristic files/directories
-        if (path / 'README.md').exists() and (path / '.git').exists():
+        # Look for README.md and optionally .git (may not exist in some deployments)
+        has_readme = (path / 'README.md').exists()
+        has_git = (path / '.git').exists()
+        has_data_dir = (path / 'dir_g21_small_workload_with_gt').exists()
+        
+        # Consider it the project root if it has README.md and either .git or the data directory
+        if has_readme and (has_git or has_data_dir):
             return path
     
     # Fallback: if we can't find the root, assume current file is in root
